@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <defs>
+    <linearGradient id="linear-gradient" x1="-0.029" x2="0.902" gradientUnits="objectBoundingBox">
+      <stop offset="0"/>
+      <stop offset="1" stop-color="#9b0081"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.5" x2="0.793" y2="0.755" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="red"/>
+      <stop offset="1" stop-color="#c800f8"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ff0045"/>
+      <stop offset="1" stop-color="#5e0080"/>
+    </linearGradient>
+    <clipPath id="clip-background">
+      <rect width="1920" height="1080"/>
+    </clipPath>
+  </defs>
+  <g id="background" clip-path="url(#clip-background)">
+    <rect width="1920" height="1080" fill="#fff"/>
+    <rect id="Rectangle_1" data-name="Rectangle 1" width="1920" height="1080" fill="url(#linear-gradient)"/>
+    <ellipse id="Ellipse_1" data-name="Ellipse 1" cx="178" cy="159" rx="178" ry="159" transform="translate(-47 -41)" opacity="0.45" fill="url(#linear-gradient-2)"/>
+    <rect id="Rectangle_2" data-name="Rectangle 2" width="303" height="1066" transform="translate(-395.688 748.533) rotate(-40)" fill="url(#linear-gradient-3)"/>
+    <ellipse id="Ellipse_2" data-name="Ellipse 2" cx="178" cy="159" rx="178" ry="159" transform="translate(-209 194)" opacity="0.45" fill="url(#linear-gradient-2)"/>
+    <ellipse id="Ellipse_3" data-name="Ellipse 3" cx="364" cy="375" rx="364" ry="375" transform="translate(993 -453)" opacity="0.45" fill="url(#linear-gradient-2)"/>
+    <ellipse id="Ellipse_4" data-name="Ellipse 4" cx="364" cy="375" rx="364" ry="375" transform="translate(1263 153)" opacity="0.45" fill="url(#linear-gradient-2)"/>
+    <ellipse id="Ellipse_5" data-name="Ellipse 5" cx="364" cy="375" rx="364" ry="375" transform="translate(179 771)" opacity="0.45" fill="url(#linear-gradient-2)"/>
+    <rect id="Rectangle_3" data-name="Rectangle 3" width="234" height="1066" transform="translate(1357.169 -332.819) rotate(-40)" fill="url(#linear-gradient-3)"/>
+    <ellipse id="Ellipse_6" data-name="Ellipse 6" cx="178" cy="159" rx="178" ry="159" transform="translate(147 649)" opacity="0.45" fill="url(#linear-gradient-2)"/>
+  </g>
+</svg>
