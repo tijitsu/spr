@@ -2,3 +2,7 @@
    font-family: 'futuram';
    src: url('futuram/font.ttf');
 }
+@font-face {
+   font-family: 'futurab';
+   src: url('futurab/font.ttf');
+}
